@@ -1,7 +1,7 @@
 import Home from "./pages/Home";
 import axios from "axios";
 axios.defaults.withCredentials = true;
-axios.defaults.baseURL = "https://task-manager-bzxg.vercel.app";
+axios.defaults.baseURL = "http://localhost:5000";
 
 const App = () => {
   return (
