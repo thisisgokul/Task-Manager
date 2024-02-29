@@ -1,6 +1,6 @@
 # Task Manager
 
-This project aims to create a task manager application using React and Tailwind CSS. The application allows users to manage tasks efficiently, including adding new tasks, updating existing tasks, and tracking the number of times the add and update functionalities are used.
+This project aims to create a task manager application using the MERN (MongoDB, Express.js, React.js, Node.js) stack along with Tailwind CSS. The application allows users to manage tasks efficiently, including adding new tasks, updating existing tasks, and tracking the number of times the add and update functionalities are used.
 
 ## Demo
 Check out the live demo [here](https://task-manager-rho-one.vercel.app/).
