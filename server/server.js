@@ -12,7 +12,7 @@ app.use(express.json());
 // Enable CORS 
 app.use(cors({
   credentials: true,
-  origin: 'http://localhost:3000'
+  origin: 'https://task-manager-iota-black.vercel.app'
 }));
   
 
