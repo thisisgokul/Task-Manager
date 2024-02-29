@@ -17,7 +17,7 @@ Check out the live demo [here](https://task-manager-rho-one.vercel.app/).
 - **Tailwind CSS**: A utility-first CSS framework for rapid UI development.
 - **React Resizable**: An open-source library for creating resizable components.
 
-![Task Manager Screenshot](./client/public/screenshots/img1)
+![Task Manager Screenshot](./client/public/img1)
 
 ## Usage
 
