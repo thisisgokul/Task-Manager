@@ -12,7 +12,7 @@ app.use(express.json());
 // Enable CORS 
 app.use(cors({
   credentials: true,
-  origin: 'https://task-manager-rho-one.vercel.app'
+  origin: 'https://task-manager-rho-one.vercel.app/'
 }));
   
 
